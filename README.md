@@ -18,4 +18,4 @@ Our approach begins with the selection of the pre-trained BERT-base-uncased mode
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/squad-chatbot.git
+git clone https://github.com/Melisaaydinci/Wiki-chatbot.git
