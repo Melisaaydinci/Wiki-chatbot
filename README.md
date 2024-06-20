@@ -4,7 +4,7 @@ This project is a simple chatbot built using the Stanford Question Answering Dat
 
 ## Approach
 
-Our approach begins with the selection of the pre-trained BERT-base-uncased model. We fine-tune this model on the SQuAD 2.0 dataset to train a Question Answering (QA) model. The dataset consists of context-passages paired with questions and answers. To facilitate the training process, we preprocess the data and create a custom dataset class, transforming the raw JSON format into a format suitable for training the BERT-based QA model. Additionally, we implement text normalization techniques to enhance the model's performance.
+My approach begins with the selection of the pre-trained BERT-base-uncased model. I fine-tune this model on the SQuAD 2.0 dataset to train a Question Answering (QA) model. The dataset consists of context-passages paired with questions and answers. To facilitate the training process, I preprocess the data and create a custom dataset class, transforming the raw JSON format into a format suitable for training the BERT-based QA model. Additionally, I implement text normalization techniques to enhance the model's performance.
 
 ## Key Components
 
